@@ -17,3 +17,5 @@ total = sum(numbers)
 average = total / len(numbers)
 print("Total:", total)
 print("Average:", average)
+
+
